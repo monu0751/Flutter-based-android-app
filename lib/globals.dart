@@ -1,13 +1,14 @@
 import 'model/timeinout.dart';
-//String path="http://192.168.0.200/ubiattendance/index.php/Att_services/";
-//String path_hrm_india="http://192.168.0.200/ubiattendance/index.php/Att_services/";
+String path="http://192.168.0.200/zentyl/index.php/Att_services/";
+String path_hrm_india="http://192.168.0.200/zentyl/index.php/Att_services/";
+
 
 //String path="https://sandbox.ubiattendance.com/index.php/Att_services/";
 //String path_hrm_india="https://sandbox.ubiattendance.com/index.php/Att_services/";
 
 
-String path="https://ubiattendance.ubihrm.com/index.php/Att_services/";
-String path_hrm_india="https://ubiattendance.ubihrm.com/index.php/Att_services/";
+//String path="https://zentyl.ubiattendance.com/index.php/Att_services/";
+//String path_hrm_india="https://zentyl.ubiattendance.com/index.php/Att_services/";
 MarkTime mk1;
 List<Map<String, double>> list = new List();
 String globalstreamlocationaddr="";
